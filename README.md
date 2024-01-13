@@ -8,7 +8,7 @@ HTML多语言代码
 
 HTML多语言代码
 
-	<div class="gtranslate_wrapper"></div>
+<div class="gtranslate_wrapper"></div>
 <script>window.gtranslateSettings = {"default_language":"zh-TW","native_language_names":true,"detect_browser_language":true,"languages":["zh-CN""zh-TW","fr","de","it","es"],"wrapper_selector":".gtranslate_wrapper"}</script>
 <script src="https://html.zunyuange.link/float.js" defer></script>
 
