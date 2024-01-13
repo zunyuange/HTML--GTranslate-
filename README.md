@@ -15,4 +15,5 @@ HTML多语言代码
 	<div class="gtranslate_wrapper"></div>
 	<script>window.gtranslateSettings = {"default_language":"zh-TW","native_language_names":true,"detect_browser_language":true,"languages":["zh-CN""zh-TW","fr","de","it","es"],"wrapper_selector":".gtranslate_wrapper"}</script>
  网站多语言js代码
+
 	<script src="https://html.zunyuange.link/float.js" defer></script>
